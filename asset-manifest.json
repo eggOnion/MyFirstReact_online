@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eggOnion/MyFirstReact_online.git/static/css/main.c6cd5dc9.css",
-    "main.js": "/eggOnion/MyFirstReact_online.git/static/js/main.4fb7b3dc.js",
-    "index.html": "/eggOnion/MyFirstReact_online.git/index.html",
-    "main.c6cd5dc9.css.map": "/eggOnion/MyFirstReact_online.git/static/css/main.c6cd5dc9.css.map",
-    "main.4fb7b3dc.js.map": "/eggOnion/MyFirstReact_online.git/static/js/main.4fb7b3dc.js.map"
+    "main.css": "/MyFirstReact_online/static/css/main.c6cd5dc9.css",
+    "main.js": "/MyFirstReact_online/static/js/main.4fb7b3dc.js",
+    "index.html": "/MyFirstReact_online/index.html",
+    "main.c6cd5dc9.css.map": "/MyFirstReact_online/static/css/main.c6cd5dc9.css.map",
+    "main.4fb7b3dc.js.map": "/MyFirstReact_online/static/js/main.4fb7b3dc.js.map"
   },
   "entrypoints": [
     "static/css/main.c6cd5dc9.css",
